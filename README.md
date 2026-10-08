@@ -1,8 +1,12 @@
 <p align="center">
   <strong>COLLEGE OF ENGINEERING</strong><br>
   Department of Electronics Engineering<br>
-  <strong>BACHELOR OF SCIENCE IN MECHATRONICS ENGINEERING</strong></p>
- <p align="center"><strong><em>1st Semester, AY 2026-2027</em></strong></p>
+  <strong>BACHELOR OF SCIENCE IN MECHATRONICS ENGINEERING</strong>
+</p>
+
+<p align="center">
+  <strong><em>1st Semester, AY 2026-2027</em></strong>
+</p>
    
 <h1 align="center">DATA PREPROCESSING CASE STUDY</h1>
 <p align="center">
