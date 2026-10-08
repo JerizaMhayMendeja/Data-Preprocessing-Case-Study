@@ -6,25 +6,18 @@
 </p>
 
 <h1 align="center">DATA PREPROCESSING CASE STUDY</h1>
-
 <p align="center">
    <em>MExEE 402: MExE Elective 2</em>
 </p>
 
 ### Members
 
-<div align="center">
-
 | Name | Student Number | Section |
 | :--- | :--- | :--- |
 | Mendeja, Jeriza Mhay | | |
 | Santiago, Kirsten | | |
 
-</div>
-
 ### Notebook links
-
-<div align="center">
 
 | Chapter | Member 1 | Member 2 |
 | :--- | :--- | :--- |
@@ -35,8 +28,6 @@
 | Ch7 | [link](#) | [link](#) |
 | Ch8 | [link](#) | [link](#) |
 | Ch9 | [link](#) | [link](#) |
-
-</div>
 
 ## What we learned
 
