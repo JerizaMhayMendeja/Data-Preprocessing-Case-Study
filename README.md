@@ -1,5 +1,4 @@
-COLLEGE OF ENGINEERING
-
+<p align="center"><strong>COLLEGE OF ENGINEERING</strong></p>
 
 
 <h1 align="center">DATA PREPROCESSING CASE STUDY</h1>
