@@ -21,13 +21,13 @@
 
 | Chapter | Member 1 | Member 2 |
 | :--- | :--- | :--- |
-| Ch1_2_3 | [link](ELECTIVES%202/CHAPTER1_3.py) | [link](#) |
-| Ch4 | [link](ELECTIVES%202/CHAPTER_4.py) | [link](#) |
-| Ch5 | [link](#) | [link](#) |
-| Ch6 | [link](#) | [link](#) |
-| Ch7 | [link](#) | [link](#) |
-| Ch8 | [link](#) | [link](#) |
-| Ch9 | [link](#) | [link](#) |
+| Ch1_2_3 | [link](CHAPTER1_3.py) | [link](#) |
+| Ch4 | [link](CHAPTER_4.py) | [link](#) |
+| Ch5 | [link](CHAPTER_5.py) | [link](#) |
+| Ch6 | [link](CHAPTER_6.py) | [link](#) |
+| Ch7 | [link](CHAPTER_7.py) | [link](#) |
+| Ch8 | [link](CHAPTER_8.py) | [link](#) |
+| Ch9 | [link](CHAPTER_9.py) | [link](#) |
 
 ## What we learned
 
