@@ -23,7 +23,7 @@
 | :--- | :--- | :--- |
 | Ch1_2_3 |(https://colab.research.google.com/drive/11xehpsrqn9JxIIoqWu2lmDY16n17e2vd?usp=sharing) | [link](#) |
 | Ch4 |(https://colab.research.google.com/drive/1s2B7yzj-R1blcwmq4ACz8th2M9KM0OOh?usp=sharing) | [link](#) |
-| Ch5 | [link](CHAPTER_5(Mendeja).py) | [link](#) |
+| Ch5 |(https://colab.research.google.com/drive/1QuUONdlGkP_kiNfhqYksFf6nJt88bFsU?usp=sharing)| [link](#) |
 | Ch6 | [link](CHAPTER_6(Mendeja).py) | [link](#) |
 | Ch7 | [link](CHAPTER_7(Mendeja).py) | [link](#) |
 | Ch8 | [link](CHAPTER_8(Mendeja).py) | [link](#) |
