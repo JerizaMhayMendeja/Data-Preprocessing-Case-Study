@@ -22,12 +22,12 @@
 | Chapter | Member 1 | Member 2 |
 | :--- | :--- | :--- |
 | Ch1_2_3 | [link](CHAPTER1_3(Mendeja).py) | [link](#) |
-| Ch4 | [link](CHAPTER_4.py) | [link](#) |
-| Ch5 | [link](CHAPTER_5.py) | [link](#) |
-| Ch6 | [link](CHAPTER_6.py) | [link](#) |
-| Ch7 | [link](CHAPTER_7.py) | [link](#) |
-| Ch8 | [link](CHAPTER_8.py) | [link](#) |
-| Ch9 | [link](CHAPTER_9.py) | [link](#) |
+| Ch4 | [link](CHAPTER_4(Mendeja).py) | [link](#) |
+| Ch5 | [link](CHAPTER_5(Mendeja).py) | [link](#) |
+| Ch6 | [link](CHAPTER_6(Mendeja).py) | [link](#) |
+| Ch7 | [link](CHAPTER_7(Mendeja).py) | [link](#) |
+| Ch8 | [link](CHAPTER_8(Mendeja).py) | [link](#) |
+| Ch9 | [link](CHAPTER_9(Mendeja).py) | [link](#) |
 
 ## What we learned
 
