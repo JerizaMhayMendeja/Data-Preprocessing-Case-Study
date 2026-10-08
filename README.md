@@ -14,8 +14,8 @@
 
 | Name | Student Number | Section |
 | :--- | :--- | :--- |
-| Mendeja, Jeriza Mhay | | |
-| Santiago, Kirsten | | |
+| Mendeja, Jeriza Mhay | | MEXE 4101 |
+| Santiago, Kirsten | | MEXE 4101|
 
 ### Notebook links
 
