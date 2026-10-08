@@ -19,7 +19,7 @@
 
 ### Notebook links
 
-| Chapter | Member 1 | Member 2 |
+| Chapter | MENDEJA, Jeriza Mhay| SANTIAGO, Kirsten|
 | :--- | :--- | :--- |
 | Ch1_2_3 | [link](CHAPTER1_3(Mendeja).py) | [link](#) |
 | Ch4 | [link](CHAPTER_4(Mendeja).py) | [link](#) |
