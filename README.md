@@ -9,6 +9,8 @@
 <p align="center">
    <em>MExEE 402: MExE Elective 2</em><br><br>
 <div align="center">
+</p>
+  
 
 ### Members
 
