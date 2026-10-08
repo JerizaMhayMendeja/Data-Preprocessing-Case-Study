@@ -27,7 +27,7 @@
 | Ch6 |(https://colab.research.google.com/drive/1u2qrcEAzBzlc3S2UjMLdaQbNYJKgXOh0?usp=sharing) | [link](#) |
 | Ch7 |(https://colab.research.google.com/drive/1Y4iga3lTRZ0YqsuzlnlUEAS9w-1WYCbM?usp=sharing) | [link](#) |
 | Ch8 |(https://colab.research.google.com/drive/1tgFI2v62dOXUl1xZuu1yVJ6UR0h2tqS_?usp=sharing) | [link](#) |
-| Ch9 | [link](CHAPTER_9(Mendeja).py) | [link](#) |
+| Ch9 |(https://colab.research.google.com/drive/1oZRGhEAj9Ng57pVFags5VZY9lo82oyka?usp=sharing)| [link](#) |
 
 ## What we learned
 
