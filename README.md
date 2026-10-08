@@ -21,7 +21,7 @@
 
 | Chapter | MENDEJA, Jeriza Mhay| SANTIAGO, Kirsten|
 | :--- | :--- | :--- |
-| Ch1_2_3 | [link](CHAPTER1_3(Mendeja).py) | [link](#) |
+| Ch1_2_3 | [[link](CHAPTER1_3(Mendeja).py)](https://colab.research.google.com/drive/11xehpsrqn9JxIIoqWu2lmDY16n17e2vd?usp=sharing) | [link](#) |
 | Ch4 | [link](CHAPTER_4(Mendeja).py) | [link](#) |
 | Ch5 | [link](CHAPTER_5(Mendeja).py) | [link](#) |
 | Ch6 | [link](CHAPTER_6(Mendeja).py) | [link](#) |
