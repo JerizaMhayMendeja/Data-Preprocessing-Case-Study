@@ -21,7 +21,7 @@
 
 | Chapter | Member 1 | Member 2 |
 | :--- | :--- | :--- |
-| Ch1_2_3 | [link](CHAPTER1_3.py) | [link](#) |
+| Ch1_2_3 | [link](ELECTIVES 2/CHAPTER1_3.py) | [link](#) |
 | Ch4 | [link](#) | [link](#) |
 | Ch5 | [link](#) | [link](#) |
 | Ch6 | [link](#) | [link](#) |
