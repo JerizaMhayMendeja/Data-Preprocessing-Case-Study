@@ -1,4 +1,4 @@
-<div align="center">
+<h3 align="center">🎓 BACHELOR OF SCIENCE IN MECHATRONICS ENGINEERING</h3><div align="center">
 
 <h1><b>Data Preprocessing Case Study</b></h1>
 
