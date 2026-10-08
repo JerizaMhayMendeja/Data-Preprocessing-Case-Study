@@ -1,10 +1,7 @@
 <p align="center">
   <strong>COLLEGE OF ENGINEERING</strong><br>
   Department of Electronics Engineering<br>
-  <strong>BACHELOR OF SCIENCE IN MECHATRONICS ENGINEERING</strong>
-</p>
-
-<p align="center">
+  <strong>BACHELOR OF SCIENCE IN MECHATRONICS ENGINEERING</strong><br>
   <strong><em>1st Semester, AY 2026-2027</em></strong>
 </p>
    
