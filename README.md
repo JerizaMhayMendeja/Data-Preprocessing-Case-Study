@@ -12,14 +12,18 @@
 
 ### Members
 
+<div align="center">
+
 | Name | Student Number | Section |
 | :--- | :--- | :--- |
 | Mendeja, Jeriza Mhay | | |
 | Santiago, Kirsten | | |
 
-<br>
+</div>
 
 ### Notebook links
+
+<div align="center">
 
 | Chapter | Member 1 | Member 2 |
 | :--- | :--- | :--- |
@@ -32,6 +36,7 @@
 | Ch9 | [link](#) | [link](#) |
 
 </div>
+
 ## What we learned
 
 One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught
