@@ -10,7 +10,6 @@
    <em>MExEE 402: MExE Elective 2</em><br><br>
 
 ## Members
-<p align="center">
 | Name | Student Number | Section |
 |---|---|---|
 | Mendeja, Jeriza Mhay | | |
