@@ -8,25 +8,30 @@
 <h1 align="center">DATA PREPROCESSING CASE STUDY</h1>
 <p align="center">
    <em>MExEE 402: MExE Elective 2</em><br><br>
+<div align="center">
 
-## Members
+### Members
+
 | Name | Student Number | Section |
-|---|---|---|
+| :--- | :--- | :--- |
 | Mendeja, Jeriza Mhay | | |
 | Santiago, Kirsten | | |
 
-## Notebook links
+<br>
+
+### Notebook links
 
 | Chapter | Member 1 | Member 2 |
-|---|---|---|
-| Ch1_2_3 | [link]() | [link]() |
-| Ch4 | [link]() | [link]() |
-| Ch5 | [link]() | [link]() |
-| Ch6 | [link]() | [link]() |
-| Ch7 | [link]() | [link]() |
-| Ch8 | [link]() | [link]() |
-| Ch9 | [link]() | [link]() |
+| :--- | :--- | :--- |
+| Ch1_2_3 | [link](#) | [link](#) |
+| Ch4 | [link](#) | [link](#) |
+| Ch5 | [link](#) | [link](#) |
+| Ch6 | [link](#) | [link](#) |
+| Ch7 | [link](#) | [link](#) |
+| Ch8 | [link](#) | [link](#) |
+| Ch9 | [link](#) | [link](#) |
 
+</div>
 ## What we learned
 
 One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught
