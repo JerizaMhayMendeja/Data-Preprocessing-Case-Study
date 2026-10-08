@@ -1,7 +1,7 @@
 <div align="center">
-  <h3 style="margin: 0; line-height: 1;">COLLEGE OF ENGINEERING</h3>
-  <h3 style="margin: 0; line-height: 1;">Department of Electronics Engineering</h3>
-  <h3 style="margin: 0; line-height: 1;">BACHELOR OF SCIENCE IN MECHATRONICS ENGINEERING</h3>
+  <h3 style="margin: 2px; line-height: 1.1;">COLLEGE OF ENGINEERING</h3>
+  <h3 style="margin: 2px; line-height: 1.1;">Department of Electronics Engineering</h3>
+  <h3 style="margin: 2px; line-height: 1.1;">BACHELOR OF SCIENCE IN MECHATRONICS ENGINEERING</h3>
 </div>
 
 <h1><b>DATA PREPROCESSING CASE STUDY</b></h1>
