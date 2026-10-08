@@ -1,1 +1,1 @@
-# Data Preprocessing Case Study
+# MexEE 402: Data Preprocessing Case Study
