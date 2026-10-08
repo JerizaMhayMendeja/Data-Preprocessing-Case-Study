@@ -21,7 +21,7 @@
 
 | Chapter | Member 1 | Member 2 |
 | :--- | :--- | :--- |
-| Ch1_2_3 | [link](CHAPTER1_3.py) | [link](#) |
+| Ch1_2_3 | [link](CHAPTER1_3(Mendeja).py) | [link](#) |
 | Ch4 | [link](CHAPTER_4.py) | [link](#) |
 | Ch5 | [link](CHAPTER_5.py) | [link](#) |
 | Ch6 | [link](CHAPTER_6.py) | [link](#) |
