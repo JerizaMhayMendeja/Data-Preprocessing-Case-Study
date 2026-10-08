@@ -1,4 +1,4 @@
-<h1 align="center">Midterm Project: Mechatronics Innovation & ISO/IEC Accreditation Simulation</h1>
+<h1 align="center">DATA PREPROCESSING CASE STUDY</h1>
 <p align="center">
-  MEXE 410: Codes, Standards, and Professional Ethics for MExE<br>
+  MExEE 402: MExE Elecive 2<br>
 </p>
