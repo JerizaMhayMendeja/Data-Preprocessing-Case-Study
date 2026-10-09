@@ -62,15 +62,15 @@ Chapter 6 was about outliers. These are just weird numbers that don't match the 
 ### Chapter 3
 1. The Useless Import Mistake
 <img width="1748" height="58" alt="image" src="https://github.com/user-attachments/assets/40fe4b00-7b18-4b0e-bd84-03b685f4c9f1" />
-We never actually use np anywhere in the rest of the code.
+We never actually use np anywhere in the rest of the code.<br><br>
 
 2. The FutureWarning Mistake
 <img width="1730" height="73" alt="image" src="https://github.com/user-attachments/assets/8a2f0ce2-7010-450d-85f7-0f65effac892" />
-This triggered a big warning message block because Pandas is changing how inplace=True works in future updates.
+This triggered a big warning message block because Pandas is changing how inplace=True works in future updates.<br><br>
 
 3. The Useless Deletion Mistake
 <img width="1749" height="78" alt="image" src="https://github.com/user-attachments/assets/d6b070bd-30cf-4af7-9ad1-dfed3559cba6" />
-It just filled all the empty publisher blanks in the cell right above this one. Because there are no empty spots left, this deletion line does absolutely nothing.
+It just filled all the empty publisher blanks in the cell right above this one. Because there are no empty spots left, this deletion line does absolutely nothing.<br><br>
 
 4. The Impossible Decimal Year Mistake
 <img width="1741" height="36" alt="image" src="https://github.com/user-attachments/assets/e9096d71-180c-4512-909d-eae9b204e6ad" />
