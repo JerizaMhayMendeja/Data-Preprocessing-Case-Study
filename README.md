@@ -87,8 +87,6 @@ The code outputs [], meaning the Z-score method found exactly zero outliers. The
 * The Fix:<br><br>
 The code uses a Z-score threshold of 3 which outputs zero outliers because the dataset is too small, even though the text claims the number 100 is an outlier. To fix this error, we lower the threshold to 2.5 (data[np.abs(z_scores) > 2.5]) so the method can successfully catch the outlier in the small dataset.<br><br>
 
-
-
 * Hiding Outlier Mistake
 <img width="1740" height="98" alt="image" src="https://github.com/user-attachments/assets/83c16b59-1c7d-491b-a8ad-4dd5aabffef0" />
 The head() function defaults to showing only the first 5 rows of data. Because the dataset only has 8 numbers, and the outlier (100) is at the very end of the list, using .head() completely hides the outlier from view. This defeats the purpose of previewing the data to see the outlier problem.<br><br>
@@ -99,8 +97,6 @@ The head() function defaults to showing only the first 5 rows of data. Because t
 ## Case Sensitivity
 Although the code runs correctly, we should avoid using different cases for variables to prevent confusion, especially when troubleshooting and debugging.
 
----
-
 ### Chapter 7: Variable X Written in Uppercase
 <p>In this example, the variable 'X' is written in uppercase.</p>
   <img width="828" alt="Chapter 7 code with uppercase variable X" src="https://github.com/user-attachments/assets/97c560ad-93b3-487b-88d9-dcbfe87f1124" />
@@ -110,8 +106,6 @@ Although the code runs correctly, we should avoid using different cases for vari
 For consistency and readability, we should use either uppercase or lowercase for the same variable throughout the code.
   <img width="738" alt="Consistent variable naming example" src="https://github.com/user-attachments/assets/30ac8b12-a798-4937-960b-821c34de88e7" />
   <img width="707" alt="Corrected variable naming example" src="https://github.com/user-attachments/assets/4e5d5a1b-aedb-4ae2-a055-c3ba5cf9c9fe" />
-
----
 
 ### Chapter 8: Variable X Written in Uppercase
 In this example, the variable 'X' is also written in uppercase.
@@ -124,9 +118,8 @@ To maintain consistency, variable names should follow the same capitalization th
   <img width="557" alt="Corrected variable naming example" src="https://github.com/user-attachments/assets/4f46d7ac-f4f6-4a0b-84ea-2364ffb10717" />
 
 ## 🤖Note on AI tools
+AI tools such as ChatGPT, Gemini, and Claude were used during the creation of this repository and the Google Colab notebooks. For the Google Colab notebooks, AI tools were used to identify code errors and explain how to correct them. Furthermore, they were used to teach and explain unfamiliar instructions, functions, and their purposes to help us better understand how the code works. For the Question and Answer section, AI tools were used to paraphrase our answers, check their grammar, and organize them into a clear and concise form. Lastly, for this repository, AI tools were used to organize the formatting of the contents. 
 
-Say whether you used an AI tool, and what for. This is not a penalty.
-Hiding it is.
 
 ## 🔗References
 
