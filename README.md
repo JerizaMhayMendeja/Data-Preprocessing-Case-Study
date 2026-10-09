@@ -67,7 +67,7 @@ To fix this error, we rewrite the code cleanly to update the column directly ins
 <img width="1741" height="36" alt="image" src="https://github.com/user-attachments/assets/e9096d71-180c-4512-909d-eae9b204e6ad" />
 Earlier in the notebook, the describe() function showed that the mean for the Year column is 2006.4. A video game cannot be released in the year 2006.4.<br><br>
 #### The Fix:<br><br>
-* To fix this error, we change .mean() to .median() so it uses a whole number instead. /><br><br>
+To fix this error, we change .mean() to .median() so it uses a whole number instead. /><br><br>
 
 
 ### Chapter 5
