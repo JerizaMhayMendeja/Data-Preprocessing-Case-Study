@@ -64,10 +64,17 @@ The Useless Import Mistake
 <img width="1748" height="58" alt="image" src="https://github.com/user-attachments/assets/40fe4b00-7b18-4b0e-bd84-03b685f4c9f1" />
 We never actually use np anywhere in the rest of the code. Loading libraries you don't use wastes memory.
 
+The FutureWarning Mistake
+<img width="1730" height="73" alt="image" src="https://github.com/user-attachments/assets/8a2f0ce2-7010-450d-85f7-0f65effac892" />
+This triggered a big warning message block because Pandas is changing how inplace=True works in future updates. It is considered bad practice now.
 
+The Impossible Decimal Year Mistake
+<img width="351" height="36" alt="image" src="https://github.com/user-attachments/assets/e467b2a4-60e4-4239-9539-bfb2f6368de1" />
+Earlier in the notebook, the describe() function showed that the mean for the Year column is 2006.4. A video game cannot be released in the year 2006.4.
 
-
-
+The Useless Deletion Mistake
+<img width="1749" height="78" alt="image" src="https://github.com/user-attachments/assets/d6b070bd-30cf-4af7-9ad1-dfed3559cba6" />
+It just filled all the empty publisher blanks in the cell right above this one. Because there are no empty spots left, this deletion line does absolutely nothing.
 
 ### Chapter 4
 
