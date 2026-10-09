@@ -64,11 +64,12 @@ Chapter 9, the final notebook. Unlike the previous chapters where steps for data
 * The Useless Import Mistake
 <img width="1748" height="58" alt="image" src="https://github.com/user-attachments/assets/40fe4b00-7b18-4b0e-bd84-03b685f4c9f1" />
 We never actually use np anywhere in the rest of the code.<br><br>
+* The Fix: Just delete the cell entirely.<br><br>
 
 * The FutureWarning Mistake
 <img width="1730" height="73" alt="image" src="https://github.com/user-attachments/assets/8a2f0ce2-7010-450d-85f7-0f65effac892" />
-This triggered a big warning message block because Pandas is changing how inplace=True works in future updates.
-* The Fix:
+This triggered a big warning message block because Pandas is changing how inplace=True works in future updates.<br><br>
+* The Fix:<br><br>
 <img width="879" height="84" alt="image" src="https://github.com/user-attachments/assets/35c26e98-ece6-43de-9f66-ace4a6e798ef" /><br><br>
 
 * The Useless Deletion Mistake
