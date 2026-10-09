@@ -13,7 +13,7 @@
 ### Members
 
 | Name | Student Number | Section |
-| :--- | :--- | 23-02413 |
+| :--- | :--- | :---23-02413 |
 | Mendeja, Jeriza Mhay | | MEXE 4101 |
 | Santiago, Maria Kirsten E. | | MEXE 4101|
 
