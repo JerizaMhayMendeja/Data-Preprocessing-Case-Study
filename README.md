@@ -103,10 +103,17 @@ In the code cell introducing MinMaxScaler, the exact same library import (from s
 * Z-Score Contradiction
 <img width="1742" height="138" alt="image" src="https://github.com/user-attachments/assets/f4d17527-3fad-4abb-a961-654c620bef15" />
 The code outputs [], meaning the Z-score method found exactly zero outliers. The number 100 only reached a Z-score of 2.61, which is less than 3. However, the text immediately below it says, "In this example, the number 100 is a clear outlier..." and later claims "In this scenario, again, the number 100 is identified as an outlier". The Z-score method completely failed to catch it because the dataset is too small.<br><br>
+* The Fix:<br><br>
+<img width="869" height="90" alt="image" src="https://github.com/user-attachments/assets/3a833b03-d718-46fd-a77c-096ab4a198ef" /><br><br>
+
+
 
 * Hiding Outlier Mistake
 <img width="1740" height="98" alt="image" src="https://github.com/user-attachments/assets/83c16b59-1c7d-491b-a8ad-4dd5aabffef0" />
-The head() function defaults to showing only the first 5 rows of data. Because the dataset only has 8 numbers, and the outlier (100) is at the very end of the list, using .head() completely hides the outlier from view. This defeats the purpose of previewing the data to see the outlier problem.
+The head() function defaults to showing only the first 5 rows of data. Because the dataset only has 8 numbers, and the outlier (100) is at the very end of the list, using .head() completely hides the outlier from view. This defeats the purpose of previewing the data to see the outlier problem.<br><br>
+* The Fix:<br><br>
+<img width="880" height="106" alt="image" src="https://github.com/user-attachments/assets/fb7dc152-88ca-4ef3-81ea-7d33884e1c85" /><br><br>
+
 
 ### Chapter 7
 
