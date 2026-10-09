@@ -75,11 +75,14 @@ This triggered a big warning message block because Pandas is changing how inplac
 * The Useless Deletion Mistake
 <img width="1749" height="78" alt="image" src="https://github.com/user-attachments/assets/d6b070bd-30cf-4af7-9ad1-dfed3559cba6" />
 It just filled all the empty publisher blanks in the cell right above this one. Because there are no empty spots left, this deletion line does absolutely nothing.<br><br>
+* The Fix:<br><br>
+<img width="851" height="44" alt="image" src="https://github.com/user-attachments/assets/d7034cc2-149e-4849-aba1-9ad51e159559" /><br><br>
 
 * The Impossible Decimal Year Mistake
 <img width="1741" height="36" alt="image" src="https://github.com/user-attachments/assets/e9096d71-180c-4512-909d-eae9b204e6ad" />
 Earlier in the notebook, the describe() function showed that the mean for the Year column is 2006.4. A video game cannot be released in the year 2006.4.
-
+* The Fix:<br><br>
+<img width="854" height="57" alt="image" src="https://github.com/user-attachments/assets/8b07bf5e-366a-4a30-9ddf-40672f80eac3" /><br><br>
 
 ### Chapter 4
 * Ordinal Counting Mismatch
