@@ -68,9 +68,8 @@ We never actually use np anywhere in the rest of the code.<br><br>
 * The FutureWarning Mistake
 <img width="1730" height="73" alt="image" src="https://github.com/user-attachments/assets/8a2f0ce2-7010-450d-85f7-0f65effac892" />
 This triggered a big warning message block because Pandas is changing how inplace=True works in future updates.<br><br>
-The Fix:
-df['Year'] = df['Year'].fillna(df['Year'].mean())
-df['Publisher'] = df['Publisher'].fillna(df['Publisher'].mode()[0])<br><br>
+* The Fix:
+<img width="879" height="84" alt="image" src="https://github.com/user-attachments/assets/35c26e98-ece6-43de-9f66-ace4a6e798ef" /><br><br>
 
 * The Useless Deletion Mistake
 <img width="1749" height="78" alt="image" src="https://github.com/user-attachments/assets/d6b070bd-30cf-4af7-9ad1-dfed3559cba6" />
