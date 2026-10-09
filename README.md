@@ -59,7 +59,7 @@ Chapter 6 was about outliers. These are just weird numbers that don't match the 
 
 ## Errors we found
 
-## Chapter 1_3
+## Chapter 3
 The Useless Import Mistake
 <img width="1748" height="58" alt="image" src="https://github.com/user-attachments/assets/40fe4b00-7b18-4b0e-bd84-03b685f4c9f1" />
 We never actually use np anywhere in the rest of the code. Loading libraries you don't use wastes memory.
