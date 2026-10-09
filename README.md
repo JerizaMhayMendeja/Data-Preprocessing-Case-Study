@@ -73,14 +73,7 @@ It just filled all the empty publisher blanks in the cell right above this one. 
 <img width="1741" height="36" alt="image" src="https://github.com/user-attachments/assets/e9096d71-180c-4512-909d-eae9b204e6ad" />
 Earlier in the notebook, the describe() function showed that the mean for the Year column is 2006.4. A video game cannot be released in the year 2006.4.<br><br>
 * The Fix:<br><br>
-<img width="854" height="57" alt="image" src="https://github.com/user-attachments/assets/8b07bf5e-366a-4a30-9ddf-40672f80eac3" /><br><br>
-
-### Chapter 4
-* Ordinal Counting Mismatch
-<img width="1800" height="288" alt="image" src="https://github.com/user-attachments/assets/d9baea31-37b9-479c-8dac-b689866df806" />
-Python programs almost always start counting at zero. As shown in the output box right below it, OrdinalEncoder actually changed the words to 0.0, 1.0, and 2.0. The lesson notes are contradicting what the code is actually doing.<br><br>
-* The Fix:<br><br>
-<img width="812" height="135" alt="image" src="https://github.com/user-attachments/assets/47c51f91-4ed4-41e7-976b-ab2329d58b3c" /><br><br>
+To fix this error, we change .mean() to .median() so it uses a whole number instead. /><br><br>
 
 
 ### Chapter 5
