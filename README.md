@@ -99,7 +99,7 @@ The head() function defaults to showing only the first 5 rows of data. Because t
 Although the code runs correctly, we should avoid using different cases for variables to prevent confusion, especially when troubleshooting and debugging.
 
 ### Chapter 7: Variable X Written in Uppercase
-<p>In this example, the variable 'X' is written in uppercase.</p>
+<p>In this section, the variable 'X' is written in uppercase.</p>
 
   <img width="828" alt="Chapter 7 code with uppercase variable X" src="https://github.com/user-attachments/assets/97c560ad-93b3-487b-88d9-dcbfe87f1124" />
   <img width="830" alt="Chapter 7 code example" src="https://github.com/user-attachments/assets/58efdd98-f83d-4425-b3cc-886c4bdfb3fa" />
@@ -111,7 +111,7 @@ For consistency and readability, we should use either uppercase or lowercase for
   <img width="707" alt="Corrected variable naming example" src="https://github.com/user-attachments/assets/4e5d5a1b-aedb-4ae2-a055-c3ba5cf9c9fe" />
 
 ### Chapter 8: Variable X Written in Uppercase
-In this example, the variable 'X' is also written in uppercase.
+In this section, the variable 'X' is also written in uppercase.
 
   <img width="825" alt="Chapter 8 code with uppercase variable X" src="https://github.com/user-attachments/assets/33a84848-aea3-4953-82d3-fdf4025fe580" />
   <img width="823" alt="Chapter 8 code example" src="https://github.com/user-attachments/assets/0e39f69b-92d1-4a32-b0d3-b3b8768bd973" />
