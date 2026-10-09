@@ -100,21 +100,25 @@ Although the code runs correctly, we should avoid using different cases for vari
 
 ### Chapter 7: Variable X Written in Uppercase
 <p>In this example, the variable 'X' is written in uppercase.</p>
+
   <img width="828" alt="Chapter 7 code with uppercase variable X" src="https://github.com/user-attachments/assets/97c560ad-93b3-487b-88d9-dcbfe87f1124" />
   <img width="830" alt="Chapter 7 code example" src="https://github.com/user-attachments/assets/58efdd98-f83d-4425-b3cc-886c4bdfb3fa" />
 
 #### Consistent Variable Naming
 For consistency and readability, we should use either uppercase or lowercase for the same variable throughout the code.
+
   <img width="738" alt="Consistent variable naming example" src="https://github.com/user-attachments/assets/30ac8b12-a798-4937-960b-821c34de88e7" />
   <img width="707" alt="Corrected variable naming example" src="https://github.com/user-attachments/assets/4e5d5a1b-aedb-4ae2-a055-c3ba5cf9c9fe" />
 
 ### Chapter 8: Variable X Written in Uppercase
 In this example, the variable 'X' is also written in uppercase.
+
   <img width="825" alt="Chapter 8 code with uppercase variable X" src="https://github.com/user-attachments/assets/33a84848-aea3-4953-82d3-fdf4025fe580" />
   <img width="823" alt="Chapter 8 code example" src="https://github.com/user-attachments/assets/0e39f69b-92d1-4a32-b0d3-b3b8768bd973" />
 
 #### Consistent Variable Naming
 To maintain consistency, variable names should follow the same capitalization throughout the program.
+
   <img width="787" alt="Consistent variable naming example" src="https://github.com/user-attachments/assets/05664df9-90b4-4cd5-b55e-d5012ef90c4f" />
   <img width="557" alt="Corrected variable naming example" src="https://github.com/user-attachments/assets/4f46d7ac-f4f6-4a0b-84ea-2364ffb10717" />
 
