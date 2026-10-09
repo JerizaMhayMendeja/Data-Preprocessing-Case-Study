@@ -105,9 +105,6 @@ The head() function defaults to showing only the first 5 rows of data. Because t
 * The Fix:<br><br>
 <img width="880" height="106" alt="image" src="https://github.com/user-attachments/assets/fb7dc152-88ca-4ef3-81ea-7d33884e1c85" /><br><br>
 
-
-### Chapter 7 & 8
-
 # Chapters 7 & 8
 ## Case Sensitivity
 Although the code runs correctly, we should avoid using different cases for variables to prevent confusion, especially when troubleshooting and debugging.
@@ -127,7 +124,7 @@ For consistency and readability, we should use either uppercase or lowercase for
 ---
 
 ### Chapter 8: Variable X Written in Uppercase
-In this example, the variable `X` is also written in uppercase.
+In this example, the variable 'X' is also written in uppercase.
   <img width="825" alt="Chapter 8 code with uppercase variable X" src="https://github.com/user-attachments/assets/33a84848-aea3-4953-82d3-fdf4025fe580" />
   <img width="823" alt="Chapter 8 code example" src="https://github.com/user-attachments/assets/0e39f69b-92d1-4a32-b0d3-b3b8768bd973" />
 
