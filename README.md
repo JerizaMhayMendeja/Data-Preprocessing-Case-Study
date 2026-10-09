@@ -105,7 +105,7 @@ Although the code runs correctly, we should avoid using different cases for vari
   <img width="830" alt="Chapter 7 code example" src="https://github.com/user-attachments/assets/58efdd98-f83d-4425-b3cc-886c4bdfb3fa" />
 
 #### Consistent Variable Naming
-For consistency and readability, we should use either uppercase or lowercase for the same variable throughout the code.
+For consistency and readability, we should use either uppercase or lowercase for both variables throughout the code.
 
   <img width="738" alt="Consistent variable naming example" src="https://github.com/user-attachments/assets/30ac8b12-a798-4937-960b-821c34de88e7" />
   <img width="707" alt="Corrected variable naming example" src="https://github.com/user-attachments/assets/4e5d5a1b-aedb-4ae2-a055-c3ba5cf9c9fe" />
