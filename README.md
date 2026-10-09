@@ -21,7 +21,7 @@
 
 | Chapter | MENDEJA, Jeriza Mhay| SANTIAGO, Kirsten|
 | :--- | :--- | :--- |
-| Ch1_2_3 |(https://colab.research.google.com/drive/11xehpsrqn9JxIIoqWu2lmDY16n17e2vd?usp=sharing) | https://colab.research.google.com/drive/1mZJEYJ9nVgUtIEuNz0ZlGM1XYVdc6yZ5) |
+| Ch1_2_3 |(https://colab.research.google.com/drive/11xehpsrqn9JxIIoqWu2lmDY16n17e2vd?usp=sharing) | (https://colab.research.google.com/drive/1mZJEYJ9nVgUtIEuNz0ZlGM1XYVdc6yZ5) |
 | Ch4 |(https://colab.research.google.com/drive/1s2B7yzj-R1blcwmq4ACz8th2M9KM0OOh?usp=sharing) | [link](#) |
 | Ch5 |(https://colab.research.google.com/drive/1QuUONdlGkP_kiNfhqYksFf6nJt88bFsU?usp=sharing)| [link](#) |
 | Ch6 |(https://colab.research.google.com/drive/1u2qrcEAzBzlc3S2UjMLdaQbNYJKgXOh0?usp=sharing) | [link](#) |
