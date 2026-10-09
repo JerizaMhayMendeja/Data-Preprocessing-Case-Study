@@ -119,8 +119,8 @@ In this section, the variable 'X' is also written in uppercase.
 #### Consistent Variable Naming
 To maintain consistency, variable names should follow the same capitalization throughout the program.
 
-  <img width="787" alt="Consistent variable naming example" src="https://github.com/user-attachments/assets/05664df9-90b4-4cd5-b55e-d5012ef90c4f" />
-  <img width="557" alt="Corrected variable naming example" src="https://github.com/user-attachments/assets/4f46d7ac-f4f6-4a0b-84ea-2364ffb10717" />
+  <img width="680" height="185" alt="image" src="https://github.com/user-attachments/assets/20fbd6aa-df15-407b-84da-8f9fca70669b" />
+  <img width="636" height="57" alt="image" src="https://github.com/user-attachments/assets/5f956c0b-8781-459b-86cb-19c11ed6cd0d" />
 
 ## 🤖Note on AI tools
 AI tools such as ChatGPT, Gemini, and Claude were used during the creation of this repository and the Google Colab notebooks. For the Google Colab notebooks, AI tools were used to identify code errors and explain how to correct them. Furthermore, they were used to teach and explain unfamiliar instructions, functions, and their purposes to help us better understand how the code works. For the Question and Answer section, AI tools were used to paraphrase our answers, check their grammar, and organize them into a clear and concise form. Lastly, for this repository, AI tools were used to organize the formatting of the contents. 
