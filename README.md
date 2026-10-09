@@ -59,7 +59,7 @@ Chapter 9, the final notebook. Unlike the previous chapters where steps for data
 #### The FutureWarning Mistake
 <img width="1730" height="73" alt="image" src="https://github.com/user-attachments/assets/8a2f0ce2-7010-450d-85f7-0f65effac892" />
 This triggered a big warning message block because Pandas is changing how inplace=True works in future updates.<br><br>
-#### The Fix:<br><br>
+#### The Fix:
 To fix this error, we rewrite the code cleanly to update the column directly instead, like writing df['Year'] = df['Year'].fillna(df['Year'].mean()). />
 <br><br>
 
