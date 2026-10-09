@@ -111,8 +111,22 @@ The head() function defaults to showing only the first 5 rows of data. Because t
 
 
 ### Chapter 7 & 8
-* Case Sensitivity
 
+### Chapter 7 & 8
+* Case Sensitivity
+- Although the code runs and is correct, we should avoid using different cases for variables so as to prevent confusion, especially when troubleshooting and debugging is needed.
+  * Chapter 7: Variable X is stated with uppercase.
+<img width="828" height="161" alt="image" src="https://github.com/user-attachments/assets/97c560ad-93b3-487b-88d9-dcbfe87f1124" />
+ <img width="830" height="182" alt="image" src="https://github.com/user-attachments/assets/58efdd98-f83d-4425-b3cc-886c4bdfb3fa" />
+ For Consistency, we should use either both upper or lowercase for variables.
+<img width="738" height="112" alt="image" src="https://github.com/user-attachments/assets/30ac8b12-a798-4937-960b-821c34de88e7" />
+<img width="707" height="133" alt="image" src="https://github.com/user-attachments/assets/4e5d5a1b-aedb-4ae2-a055-c3ba5cf9c9fe" />
+  * Chapter 8: Variable X is stated with uppercase.
+<img width="825" height="247" alt="image" src="https://github.com/user-attachments/assets/33a84848-aea3-4953-82d3-fdf4025fe580" />
+<img width="823" height="95" alt="image" src="https://github.com/user-attachments/assets/0e39f69b-92d1-4a32-b0d3-b3b8768bd973" />
+ For Consistency, we should use either both upper or lowercase for variables.
+<img width="787" height="161" alt="image" src="https://github.com/user-attachments/assets/05664df9-90b4-4cd5-b55e-d5012ef90c4f" />
+<img width="557" height="82" alt="image" src="https://github.com/user-attachments/assets/4f46d7ac-f4f6-4a0b-84ea-2364ffb10717" />
 
 ## 🤖Note on AI tools
 
