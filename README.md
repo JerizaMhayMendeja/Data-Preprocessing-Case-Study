@@ -95,7 +95,9 @@ Python programs almost always start counting at zero. As shown in the output box
 ### Chapter 5
 * The Double Import Redundancy
 <img width="1736" height="164" alt="image" src="https://github.com/user-attachments/assets/467d244a-3fda-4aed-8459-30a34610eb23" />
-In the code cell introducing MinMaxScaler, the exact same library import (from sklearn.preprocessing import MinMaxScaler) is typed twice in a row, separated by just one comment. Loading the exact same tool twice in the same cell is completely unnecessary.
+In the code cell introducing MinMaxScaler, the exact same library import (from sklearn.preprocessing import MinMaxScaler) is typed twice in a row, separated by just one comment. Loading the exact same tool twice in the same cell is completely unnecessary.:<br><br>
+* The Fix: Just delete the code under the example data since it's redundant.<br><br>
+
 
 ### Chapter 6
 * Z-Score Contradiction
