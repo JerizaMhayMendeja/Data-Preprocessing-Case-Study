@@ -60,14 +60,8 @@ Chapter 9, the final notebook. Unlike the previous chapters where steps for data
 <img width="1730" height="73" alt="image" src="https://github.com/user-attachments/assets/8a2f0ce2-7010-450d-85f7-0f65effac892" />
 This triggered a big warning message block because Pandas is changing how inplace=True works in future updates.<br><br>
 * The Fix:<br><br>
-<img width="1735" height="73" alt="image" src="https://github.com/user-attachments/assets/31b2ec3d-fda7-4bae-b8a7-99f544ee8b23" />
+To fix this error, we rewrite the code cleanly to update the column directly instead, like writing df['Year'] = df['Year'].fillna(df['Year'].mean()). />
 <br><br>
-
-* The Useless Deletion Mistake
-<img width="1749" height="78" alt="image" src="https://github.com/user-attachments/assets/d6b070bd-30cf-4af7-9ad1-dfed3559cba6" />
-It just filled all the empty publisher blanks in the cell right above this one. Because there are no empty spots left, this deletion line does absolutely nothing.<br><br>
-* The Fix:<br><br>
-<img width="851" height="44" alt="image" src="https://github.com/user-attachments/assets/d7034cc2-149e-4849-aba1-9ad51e159559" /><br><br>
 
 * The Impossible Decimal Year Mistake
 <img width="1741" height="36" alt="image" src="https://github.com/user-attachments/assets/e9096d71-180c-4512-909d-eae9b204e6ad" />
