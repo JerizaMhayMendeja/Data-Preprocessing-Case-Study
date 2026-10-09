@@ -87,7 +87,7 @@ The code outputs [], meaning the Z-score method found exactly zero outliers. The
 * The Fix:<br><br>
 The code uses a Z-score threshold of 3 which outputs zero outliers because the dataset is too small, even though the text claims the number 100 is an outlier. To fix this error, we lower the threshold to 2.5 (data[np.abs(z_scores) > 2.5]) so the method can successfully catch the outlier in the small dataset.<br><br>
 
-* Hiding Outlier Mistake
+#### Hiding Outlier Mistake
 <img width="1740" height="98" alt="image" src="https://github.com/user-attachments/assets/83c16b59-1c7d-491b-a8ad-4dd5aabffef0" />
 The head() function defaults to showing only the first 5 rows of data. Because the dataset only has 8 numbers, and the outlier (100) is at the very end of the list, using .head() completely hides the outlier from view. This defeats the purpose of previewing the data to see the outlier problem.<br><br>
 * The Fix:<br><br>
