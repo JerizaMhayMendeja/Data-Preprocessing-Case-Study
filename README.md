@@ -19,15 +19,16 @@
 
 ### 📚Notebook links
 
-| Chapter | MENDEJA, Jeriza Mhay| SANTIAGO, Kirsten|
+| Chapter | MENDEJA, Jeriza Mhay| SANTIAGO, Maria Kirsten E.|
 | :--- | :--- | :--- |
 | Ch1_2_3 |(https://colab.research.google.com/drive/11xehpsrqn9JxIIoqWu2lmDY16n17e2vd?usp=sharing) | (https://colab.research.google.com/drive/1mZJEYJ9nVgUtIEuNz0ZlGM1XYVdc6yZ5) |
-| Ch4 |(https://colab.research.google.com/drive/1s2B7yzj-R1blcwmq4ACz8th2M9KM0OOh?usp=sharing) | [link](#) |
-| Ch5 |(https://colab.research.google.com/drive/1QuUONdlGkP_kiNfhqYksFf6nJt88bFsU?usp=sharing)| [link](#) |
-| Ch6 |(https://colab.research.google.com/drive/1u2qrcEAzBzlc3S2UjMLdaQbNYJKgXOh0?usp=sharing) | [link](#) |
-| Ch7 |(https://colab.research.google.com/drive/1Y4iga3lTRZ0YqsuzlnlUEAS9w-1WYCbM?usp=sharing) | [link](#) |
-| Ch8 |(https://colab.research.google.com/drive/1tgFI2v62dOXUl1xZuu1yVJ6UR0h2tqS_?usp=sharing) | [link](#) |
-| Ch9 |(https://colab.research.google.com/drive/1oZRGhEAj9Ng57pVFags5VZY9lo82oyka?usp=sharing)| [link](#) |
+| Ch4 |(https://colab.research.google.com/drive/1s2B7yzj-R1blcwmq4ACz8th2M9KM0OOh?usp=sharing) | (https://colab.research.google.com/drive/10vL7gp95mVIegtuuGwp-ecKoYdOQ6wOM) |
+| Ch5 |(https://colab.research.google.com/drive/1QuUONdlGkP_kiNfhqYksFf6nJt88bFsU?usp=sharing)| (https://colab.research.google.com/drive/1TkOBcMDEQbcEFd-GdGZrrYK7zkmID2wL) |
+| Ch6 |(https://colab.research.google.com/drive/1u2qrcEAzBzlc3S2UjMLdaQbNYJKgXOh0?usp=sharing) | (https://colab.research.google.com/drive/1eyNtI107xxuzQbkYq-OqCMIVxMTVx3lF) |
+| Ch7 |(https://colab.research.google.com/drive/1Y4iga3lTRZ0YqsuzlnlUEAS9w-1WYCbM?usp=sharing) | (https://colab.research.google.com/drive/1l9gyzoa9FDdg_BhFFYDlhYEVlrZM5uJb#scrollTo=TJRQ9whKwLLg) |
+| Ch8 |(https://colab.research.google.com/drive/1tgFI2v62dOXUl1xZuu1yVJ6UR0h2tqS_?usp=sharing) | (https://colab.research.google.com/drive/1AcszRt7tWEDk8Oid4LJjjhkYVc8AckSh#scrollTo=b1aoM8wZw54M) |
+| Ch9 |(https://colab.research.google.com/drive/1oZRGhEAj9Ng57pVFags5VZY9lo82oyka?usp=sharing)| (https://colab.research.google.com/drive/1hPQnoQ2ozbEKoWMkOa4hjGUhudxgn7AB#scrollTo=yrCa6D0Z2vuX) |
+
 
 ## 💡What we learned
 
