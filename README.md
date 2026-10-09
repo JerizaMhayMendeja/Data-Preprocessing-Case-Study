@@ -14,7 +14,7 @@
 
 | Name | Student Number | Section |
 | :--- | :--- | :--- |
-| Mendeja, Jeriza Mhay | | MEXE 4101 |
+| Mendeja, Jeriza Mhay | 23-05104 | MEXE 4101 |
 | Santiago, Maria Kirsten E. | 23-02413 | MEXE 4101|
 
 ### Notebook links
