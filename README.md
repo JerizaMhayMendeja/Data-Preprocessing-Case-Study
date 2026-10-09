@@ -77,6 +77,10 @@ The Impossible Decimal Year Mistake
 Earlier in the notebook, the describe() function showed that the mean for the Year column is 2006.4. A video game cannot be released in the year 2006.4.
 
 ### Chapter 4
+Ordinal Counting Mismatch
+<img width="1800" height="288" alt="image" src="https://github.com/user-attachments/assets/d9baea31-37b9-479c-8dac-b689866df806" />
+Python programs almost always start counting at zero. As shown in the output box right below it, OrdinalEncoder actually changed the words to 0.0, 1.0, and 2.0. The lesson notes are contradicting what the code is actually doing.
+
 
 ### Chapter 5
 The Double Import Redundancy
