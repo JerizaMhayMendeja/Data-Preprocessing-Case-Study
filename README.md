@@ -50,12 +50,13 @@ For Chapter 5, we talked about data scaling. If one column has really big number
 Chapter 6 was about outliers. These are just weird numbers that don't match the rest of the group, like a student claiming they study 100 hours a week when everyone else studies 10. We learned how to use math like Z-scores and IQR to find them automatically. It really surprised us that one single bad number can completely mess up all your results if you forget to remove it or change it.
 
 ### Chapter 7
-
+Completing the Chapter 7 notebook taught us concepts regarding feature selection, which simply is determining the most relevant features for ML modelling, and the use of correlation to achieve this process. Furthermore, it made us recall different types of correlation which are the positive, negative, and zero correlation which also had coefficients. However, unlike correlation which was familiar to us since it has been taught since high school, this chapter taught us the basics of feature selection especially in terms of methods that are used under this process. The filter method essentially works by using statistical processes, the wrapper method works by trying different combinations of features and see what combinations perform well, and the embedded method selects important features while training the model by identifying which features are useful then, it reduces or removes those that are not. 
 
 ### Chapter 8
-
+The Chapter 8 notebook introduced us all about Preprocessing Pipeline construction. It taught us that a preprocessing pipeline simply works like a conveyor belt where the data is loaded, goes through several stations for further processing as a preparation for ML models, then is unloaded ready to be used by machine learning (ML) models. Moreover, this chapter showed us that, to build a preprocessing pipeline, imputation and scaling must be done first so as to handle missing data and standardize features.
 
 ### Chapter 9
+Chapter 9, the final notebook. Unlike the previous chapters where steps for data preprocessing were introduced and taught, in this one, it made us integrate them and execute a complete data preprocessing operation. Aside from the steps taught from the previous chapters, chapter 9 taught us that preprocessing for features undergoes a different process depending on what type or group of features they are. Numerical features go through imputation then scaling while categorical features go through imputation then one-hot encoding. This chapter also taught us that it is important to choose the appropriate plotting method or graph to present data depending on what they want to show or analyze. For example, bar plot or chart is used to compare categorical data while histogram shows data distribution.
 
 ## Errors we found
 
