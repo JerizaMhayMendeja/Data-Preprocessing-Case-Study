@@ -10,14 +10,14 @@
    <em>MExEE 402: MExE Elective 2</em>
 </p>
 
-### Members
+### 👭Members
 
 | Name | Student Number | Section |
 | :--- | :--- | :--- |
 | Mendeja, Jeriza Mhay | 23-05104 | MEXE 4101 |
 | Santiago, Maria Kirsten E. | 23-02413 | MEXE 4101|
 
-### Notebook links
+### 📚Notebook links
 
 | Chapter | MENDEJA, Jeriza Mhay| SANTIAGO, Kirsten|
 | :--- | :--- | :--- |
@@ -29,7 +29,7 @@
 | Ch8 |(https://colab.research.google.com/drive/1tgFI2v62dOXUl1xZuu1yVJ6UR0h2tqS_?usp=sharing) | [link](#) |
 | Ch9 |(https://colab.research.google.com/drive/1oZRGhEAj9Ng57pVFags5VZY9lo82oyka?usp=sharing)| [link](#) |
 
-## What we learned
+## 💡What we learned
 
 ### Chapter 1_2_3
 Through chapters 1-3, we learned that cleaning and preparing raw data is totally necessary because real-world information is always messy, and we were actually surprised to find out that doing this prep work saves computer memory and makes our final results way more accurate. Moving into Python, we figured out how to check data types and print the first few rows, and it was super cool to see how fast Pandas calculates averages and max sales for thousands of items almost instantly. We also learned how to fix missing pieces by filling them in with average values instead of deleting whole rows, and we were really surprised that throwing away useless columns on purpose actually makes the data better and less distracting for the model.
@@ -52,7 +52,7 @@ The Chapter 8 notebook introduced us all about Preprocessing Pipeline constructi
 ### Chapter 9
 Chapter 9, the final notebook. Unlike the previous chapters where steps for data preprocessing were introduced and taught, in this one, it made us integrate them and execute a complete data preprocessing operation. Aside from the steps taught from the previous chapters, chapter 9 taught us that preprocessing for features undergo a different process depending on what type or group of features they are. Numerical features go through imputation then scaling while categorical features go through imputation then one-hot encoding. This chapter also taught us that it is important to choose the appropriate plotting method or graph to present data depending on what they want to show or analyze. For example, bar plot or chart is used to compare categorical data while histogram shows data distribution.
 
-## Errors we found
+## ❌Errors we found
 
 ### Chapter 3
 * The Useless Import Mistake
@@ -117,12 +117,12 @@ The head() function defaults to showing only the first 5 rows of data. Because t
 
 ### Chapter 9
 
-## Note on AI tools
+## 🤖Note on AI tools
 
 Say whether you used an AI tool, and what for. This is not a penalty.
 Hiding it is.
 
-## References
+## 🔗References
 
 McKinney, W. (2021). Python for Data Analysis, 3rd ed. O'Reilly.
 VanderPlas, J. Python Data Science Handbook.
