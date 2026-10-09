@@ -78,9 +78,10 @@ Earlier in the notebook, the describe() function showed that the mean for the Ye
 
 ### Chapter 4
 
-
 ### Chapter 5
-
+The Double Import Redundancy
+<img width="1736" height="164" alt="image" src="https://github.com/user-attachments/assets/467d244a-3fda-4aed-8459-30a34610eb23" />
+In the code cell introducing MinMaxScaler, the exact same library import (from sklearn.preprocessing import MinMaxScaler) is typed twice in a row, separated by just one comment. Loading the exact same tool twice in the same cell is completely unnecessary.
 
 ### Chapter 6
 
