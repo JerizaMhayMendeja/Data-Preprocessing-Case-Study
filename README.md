@@ -72,6 +72,11 @@ The Useless Deletion Mistake
 <img width="1749" height="78" alt="image" src="https://github.com/user-attachments/assets/d6b070bd-30cf-4af7-9ad1-dfed3559cba6" />
 It just filled all the empty publisher blanks in the cell right above this one. Because there are no empty spots left, this deletion line does absolutely nothing.
 
+The Impossible Decimal Year Mistake
+<img width="343" height="24" alt="image" src="https://github.com/user-attachments/assets/deb6d9c2-e899-45ef-be65-90abac6ee8c1" />
+Earlier in the notebook, the describe function showed that the mean for the Year column is 2006.4. A video game cannot be released in the year 2006.4.
+
+
 ### Chapter 4
 
 
