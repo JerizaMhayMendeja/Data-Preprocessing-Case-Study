@@ -59,14 +59,14 @@ Chapter 9, the final notebook. Unlike the previous chapters where steps for data
 #### The FutureWarning Mistake
 <img width="1730" height="73" alt="image" src="https://github.com/user-attachments/assets/8a2f0ce2-7010-450d-85f7-0f65effac892" />
 This triggered a big warning message block because Pandas is changing how inplace=True works in future updates.<br><br>
-#### The Fix: <br><br>
+* The Fix: <br><br>
 To fix this error, we rewrite the code cleanly to update the column directly instead, like writing df['Year'] = df['Year'].fillna(df['Year'].mean()). />
 <br><br>
 
 #### The Impossible Decimal Year Mistake
 <img width="1741" height="36" alt="image" src="https://github.com/user-attachments/assets/e9096d71-180c-4512-909d-eae9b204e6ad" />
 Earlier in the notebook, the describe() function showed that the mean for the Year column is 2006.4. A video game cannot be released in the year 2006.4.<br><br>
-#### The Fix:<br><br>
+* The Fix:<br><br>
 To fix this error, we change .mean() to .median() so it uses a whole number instead. /><br><br>
 
 
@@ -75,7 +75,7 @@ To fix this error, we change .mean() to .median() so it uses a whole number inst
 #### The Double Import Redundancy
 <img width="1736" height="164" alt="image" src="https://github.com/user-attachments/assets/467d244a-3fda-4aed-8459-30a34610eb23" />
 In the code cell introducing MinMaxScaler, the exact same library import (from sklearn.preprocessing import MinMaxScaler) is typed twice in a row, separated by just one comment. Loading the exact same tool twice in the same cell is completely unnecessary.:<br><br>
-#### The Fix:
+* The Fix:<br><br>
 Just delete the code under the example data since it's redundant.<br><br>
 
 
