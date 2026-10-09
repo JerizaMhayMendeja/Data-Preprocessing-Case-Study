@@ -69,6 +69,7 @@ The FutureWarning Mistake
 This triggered a big warning message block because Pandas is changing how inplace=True works in future updates. It is considered bad practice now.
 
 The Impossible Decimal Year Mistake
+
 <img width="351" height="36" alt="image" src="https://github.com/user-attachments/assets/e467b2a4-60e4-4239-9539-bfb2f6368de1" />
 Earlier in the notebook, the describe() function showed that the mean for the Year column is 2006.4. A video game cannot be released in the year 2006.4.
 
