@@ -109,13 +109,9 @@ The head() function defaults to showing only the first 5 rows of data. Because t
 <img width="880" height="106" alt="image" src="https://github.com/user-attachments/assets/fb7dc152-88ca-4ef3-81ea-7d33884e1c85" /><br><br>
 
 
-### Chapter 7
+### Chapter 7 & 8
+* Case Sensitivity
 
-
-### Chapter 8
-
-
-### Chapter 9
 
 ## 🤖Note on AI tools
 
